@@ -57,7 +57,7 @@ npm install
 3. Start development server
 npm run dev
 
-4. Or, open index.html directly in your browser if not using a build system
+4. Or, open `index.html` directly in your browser if not using a build system
 
 ---
 
