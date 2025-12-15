@@ -1,10 +1,11 @@
-# To-do list (Vanilla JS)
+# Todo List — Vanilla JavaScript
 
 A fully responsive Todo List built with HTML, Tailwind CSS, and Vanilla JavaScript, designed and developed from scratch.
 
 ---
 
 ## 🚀 Live Demo
+
 🔗 **https://zahra-vakili-dev.github.io/todo-list-vanilla-js/**
 
 ---
@@ -33,14 +34,15 @@ This project was built to practice and demonstrate core front-end development sk
 ---
 
 ## ✨ Features
+
 - Add, edit, and delete tasks  
 - Mark tasks as completed  
 - Filter tasks (All / Active / Completed)  
-- Dynamic task count that updates accurately across all filters  
-- Persistent data via `localStorage`  
-- Dark mode with saved preference  
 - Keyboard support (Enter key to add/update tasks)  
-- Minimal, responsive UI built with Tailwind CSS
+- Dynamic task counter that updates across all filters  
+- Persistent data using `localStorage`  
+- Dark mode with saved user preference  
+- Minimal, fully responsive UI built with Tailwind CSS
 
 ---
 
@@ -48,8 +50,8 @@ This project was built to practice and demonstrate core front-end development sk
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/todo-app-vanilla-js.git
-   cd todo-app-vanilla-js
+   git clone https://github.com/zahra-vakili-dev/todo-list-vanilla-js.git
+   cd todo-list-vanilla-js
 
 2. Install dependencies (if using Tailwind via npm)
 npm install
@@ -62,6 +64,7 @@ npm run dev
 ---
 
 ## 📌 Notes
-A little project to level up my front-end skills.  
-More exciting projects are on the way! 🚀
 
+This project focuses on practicing core JavaScript concepts such as DOM manipulation,
+state management, and working with localStorage, while keeping the UI minimal and responsive.
+More JavaScript projects are coming soon 🚀
